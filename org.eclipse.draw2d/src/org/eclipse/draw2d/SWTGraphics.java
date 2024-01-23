@@ -1553,4 +1553,14 @@ public class SWTGraphics extends Graphics {
 			region.add(temp);
 		}
 	}
+
+	private final double scale = 1.0;
+
+	public double getScale() {
+		return scale;
+	}
+
+	public void setLineDash(float[] dash, boolean b) {
+	}
+
 }

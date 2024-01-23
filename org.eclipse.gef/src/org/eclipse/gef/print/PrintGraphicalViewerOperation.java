@@ -89,4 +89,7 @@ public class PrintGraphicalViewerOperation extends PrintFigureOperation {
 		this.viewer = viewer;
 	}
 
+	public void setUseScaledGraphics(boolean b) {
+	}
+
 }

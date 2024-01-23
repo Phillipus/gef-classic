@@ -1427,4 +1427,11 @@ public class Graph extends FigureCanvas implements IContainer {
 		return figure2ItemMap.get(figure);
 	}
 
+	public void setAnimationEnabled(boolean boolean1) {
+	}
+
+	public void setAnimationTime(int int1) {
+	}
+
+	
 }
