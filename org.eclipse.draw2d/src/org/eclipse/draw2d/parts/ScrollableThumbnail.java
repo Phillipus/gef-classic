@@ -329,4 +329,7 @@ public class ScrollableThumbnail extends Thumbnail {
 		viewport.removeFigureListener(figureListener);
 	}
 
+	public void setUseScaledGraphics(boolean b) {
+	}
+
 }
